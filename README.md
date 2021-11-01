@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janineripper
 - 👀 I’m interested in books, movies, writing and more
-- 🌱 I’m currently learning coging
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on projects for social good
 - 📫 How to reach me - shoot me an email at janine@janineripper.com
 
